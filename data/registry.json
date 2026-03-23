@@ -2,7 +2,7 @@
   {
     "id": "bonn_01",
     "name": "Bonn",
-    "url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/bonn.db",
+    "url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/bonn_01.db",
     "districts_count": 51,
     "center_lat": 50.7333,
     "center_lon": 7.1000
