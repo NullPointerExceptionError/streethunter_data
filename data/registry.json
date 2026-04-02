@@ -3,6 +3,7 @@
     "id": "bonn_01",
     "name": "Bonn",
     "url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/bonn_01.db",
+    "offline_map_url": "https://github.com/NullPointerExceptionError/streethunter_maps/releases/download/v1.0.0/koeln-regbez_map_01.pmtiles",
     "districts_count": 51,
     "center_lat": 50.7333,
     "center_lon": 7.1000
