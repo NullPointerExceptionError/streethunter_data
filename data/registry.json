@@ -6,6 +6,7 @@
     "offline_map_url": "https://github.com/NullPointerExceptionError/streethunter_maps/releases/download/v1.0.0/koeln-regbez_map_01.pmtiles",
     "districts_count": 51,
     "center_lat": 50.7333,
-    "center_lon": 7.1000
+    "center_lon": 7.1000,
+    "version": 20260425.01
   }
 ]
