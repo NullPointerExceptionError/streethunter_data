@@ -8,5 +8,15 @@
     "center_lat": 50.7333,
     "center_lon": 7.1000,
     "version": 20260428.01
+  },
+  {
+    "id": "sankt_augustin_01",
+    "name": "Sankt Augustin",
+    "url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/sankt_augustin_01.db",
+    "offline_map_url": "TODO",
+    "districts_count": 8,
+    "center_lat": 50.7753,
+    "center_lon": 7.1885,
+    "version": 20260428.01
   }
 ]
