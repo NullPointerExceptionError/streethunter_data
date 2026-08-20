@@ -28,5 +28,25 @@
     "center_lat": 47.9167,
     "center_lon": 8.2500,
     "version": 20260820.01
-  }
+  },
+  {
+    "id": "neustadt-im-schwarzwald_01",
+    "name": "Neustadt im Schwarzwald",
+    "url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/neustadt-im-schwarzwald_01.db",
+    "offline_map_url": "TODO",
+    "districts_count": 1,
+    "center_lat": 47.9149,
+    "center_lon": 8.2095,
+    "version": 20260820.01
+    },
+    {
+      "id": "rudenberg_01",
+      "name": "Rudenberg",
+      "url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/rudenberg_01.db",
+      "offline_map_url": "TODO",
+      "districts_count": 1,
+      "center_lat": 47.9196,
+      "center_lon": 8.2378,
+      "version": 20260820.01
+    }
 ]
