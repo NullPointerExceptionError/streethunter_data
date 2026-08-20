@@ -18,5 +18,15 @@
     "center_lat": 50.7753,
     "center_lon": 7.1885,
     "version": 20260428.01
+  },
+  {
+    "id": "friedenweiler_01",
+    "name": "Friedenweiler",
+    "url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/friedenweiler_01.db",
+    "offline_map_url": "TODO",
+    "districts_count": 2,
+    "center_lat": 47.9167,
+    "center_lon": 8.2500,
+    "version": 20260820.01
   }
 ]
