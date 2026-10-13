@@ -6,7 +6,7 @@
     "offline_map_url": "https://github.com/NullPointerExceptionError/streethunter_maps/releases/download/v1.0.0/koeln-regbez_map_01.pmtiles",
     "districts_count": 51,
     "center_lat": 50.7333,
-    "center_lon": 7.1000,
+    "center_lon": 7.1,
     "version": 20260906.01
   },
   {
@@ -17,7 +17,7 @@
     "districts_count": 8,
     "center_lat": 50.7753,
     "center_lon": 7.1885,
-    "version": 20260428.01
+    "version": 20261013.01
   },
   {
     "id": "friedenweiler_01",
@@ -26,7 +26,7 @@
     "offline_map_url": "TODO",
     "districts_count": 2,
     "center_lat": 47.9167,
-    "center_lon": 8.2500,
+    "center_lon": 8.25,
     "version": 20260820.01
   },
   {
@@ -38,15 +38,15 @@
     "center_lat": 47.9149,
     "center_lon": 8.2095,
     "version": 20260820.01
-    },
-    {
-      "id": "rudenberg_01",
-      "name": "Rudenberg",
-      "url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/rudenberg_01.db",
-      "offline_map_url": "TODO",
-      "districts_count": 1,
-      "center_lat": 47.9196,
-      "center_lon": 8.2378,
-      "version": 20260820.01
-    }
+  },
+  {
+    "id": "rudenberg_01",
+    "name": "Rudenberg",
+    "url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/rudenberg_01.db",
+    "offline_map_url": "TODO",
+    "districts_count": 1,
+    "center_lat": 47.9196,
+    "center_lon": 8.2378,
+    "version": 20260820.01
+  }
 ]
