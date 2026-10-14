@@ -14,12 +14,14 @@
   {
     "id": "sankt_augustin_01",
     "name": "Sankt Augustin",
-    "url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/sankt_augustin_01.db",
+    "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/sankt_augustin_01-20261014.01/sankt_augustin_01.db",
     "offline_map_url": "TODO",
     "districts_count": 8,
     "center_lat": 50.7753,
     "center_lon": 7.1885,
-    "version": 20261013.02
+    "version": 20261014.01,
+    "sha256": "6ab7a6aba9b146e5c84761c76443c5b72a6f573a501f3e5ebbd5ad44d1a4e888",
+    "size_bytes": 7589888
   },
   {
     "id": "friedenweiler_01",

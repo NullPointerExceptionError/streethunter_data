@@ -1,0 +1,19 @@
+{
+  "candidate_available": true,
+  "city": "Sankt Augustin",
+  "database_id": "sankt_augustin_01",
+  "errors": [],
+  "generator_commit": null,
+  "h3_resolution": 12,
+  "original_url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/sankt_augustin_01.db",
+  "override_sha256": null,
+  "previous_version": 20261013.02,
+  "published_at": "2026-10-14T01:13:28.835442+00:00",
+  "registry_parent": "a79b667919b6ab350b95c712cc3954cc86db86f6",
+  "sha256": "6ab7a6aba9b146e5c84761c76443c5b72a6f573a501f3e5ebbd5ad44d1a4e888",
+  "source": "LEGACY PUBLISHED DATABASE",
+  "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/sankt_augustin_01-20261014.01/sankt_augustin_01.db",
+  "validation": "passed",
+  "version": "20261014.01",
+  "warnings": []
+}
