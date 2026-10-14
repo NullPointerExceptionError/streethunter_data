@@ -2,12 +2,14 @@
   {
     "id": "bonn_01",
     "name": "Bonn",
-    "url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/bonn_01.db",
+    "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/bonn_01-20261014.01/bonn_01.db",
     "offline_map_url": "TODO",
     "districts_count": 51,
     "center_lat": 50.7333,
     "center_lon": 7.1,
-    "version": 20261013.01
+    "version": 20261014.01,
+    "sha256": "d45c2bc4e6d52dad2bfaa6dd62d4c255b094d61a6cca6d1128c6d8069659ad97",
+    "size_bytes": 31326208
   },
   {
     "id": "sankt_augustin_01",
