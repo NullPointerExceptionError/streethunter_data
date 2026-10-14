@@ -58,5 +58,17 @@
     "version": 20261014.01,
     "sha256": "76568e51669528a66e9b2d1df43ef5f37c6f6bb9510d6f4391324b34f26faa76",
     "size_bytes": 18546688
+  },
+  {
+    "id": "koeln_01",
+    "name": "Köln",
+    "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/koeln_01-20261014.01/koeln_01.db",
+    "center_lat": 50.9577031,
+    "center_lon": 6.9549525552241835,
+    "districts_count": 86,
+    "offline_map_url": "TODO",
+    "version": 20261014.01,
+    "sha256": "d7d94ede0798c0f97756602d25e3b0211721a9886a5a025685b533ee76ec237f",
+    "size_bytes": 90877952
   }
 ]
