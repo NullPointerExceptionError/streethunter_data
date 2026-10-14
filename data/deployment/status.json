@@ -1,32 +1,32 @@
 {
   "bonn_01": {
-    "last_attempt": "2026-10-14T01:12:20.479279+00:00",
-    "reason": "",
-    "retry_after": null,
-    "status": "migrated"
+    "last_attempt": "2026-10-14T01:23:37.966996+00:00",
+    "reason": "3 orphaned overrides need review\n9842 segments have conditional/access/barrier review hints; see review.json",
+    "retry_after": "2026-10-15T01:37:45.690218+00:00",
+    "status": "review"
   },
   "friedenweiler_01": {
-    "last_attempt": "2026-10-14T01:12:23.215809+00:00",
-    "reason": "",
-    "retry_after": null,
-    "status": "migrated"
+    "last_attempt": "2026-10-14T01:29:20.959425+00:00",
+    "reason": "25 segments have conditional/access/barrier review hints; see review.json",
+    "retry_after": "2026-10-15T01:37:45.690218+00:00",
+    "status": "review"
   },
   "koenigswinter_01": {
-    "last_attempt": "2026-10-14T01:12:23.853685+00:00",
-    "reason": "",
-    "retry_after": null,
-    "status": "migrated"
+    "last_attempt": "2026-10-14T01:30:53.997290+00:00",
+    "reason": "1005 segments have conditional/access/barrier review hints; see review.json",
+    "retry_after": "2026-10-15T01:37:45.690218+00:00",
+    "status": "review"
   },
   "sankt_augustin_01": {
-    "last_attempt": "2026-10-14T01:12:22.535981+00:00",
-    "reason": "",
-    "retry_after": null,
-    "status": "migrated"
+    "last_attempt": "2026-10-14T01:27:48.719624+00:00",
+    "reason": "Build fehlgeschlagen; siehe Stadt-Report",
+    "retry_after": "2026-10-15T01:37:45.690218+00:00",
+    "status": "failed"
   },
   "titisee_neustadt_01": {
-    "last_attempt": "2026-10-14T01:12:25.163853+00:00",
-    "reason": "",
-    "retry_after": null,
-    "status": "migrated"
+    "last_attempt": "2026-10-14T01:35:13.834561+00:00",
+    "reason": "Build fehlgeschlagen; siehe Stadt-Report",
+    "retry_after": "2026-10-15T01:37:45.690218+00:00",
+    "status": "failed"
   }
 }
