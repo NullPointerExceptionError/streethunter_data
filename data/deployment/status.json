@@ -1,0 +1,32 @@
+{
+  "bonn_01": {
+    "last_attempt": "2026-10-14T01:12:20.479279+00:00",
+    "reason": "",
+    "retry_after": null,
+    "status": "migrated"
+  },
+  "friedenweiler_01": {
+    "last_attempt": "2026-10-14T01:12:23.215809+00:00",
+    "reason": "",
+    "retry_after": null,
+    "status": "migrated"
+  },
+  "koenigswinter_01": {
+    "last_attempt": "2026-10-14T01:12:23.853685+00:00",
+    "reason": "",
+    "retry_after": null,
+    "status": "migrated"
+  },
+  "sankt_augustin_01": {
+    "last_attempt": "2026-10-14T01:12:22.535981+00:00",
+    "reason": "",
+    "retry_after": null,
+    "status": "migrated"
+  },
+  "titisee_neustadt_01": {
+    "last_attempt": "2026-10-14T01:12:25.163853+00:00",
+    "reason": "",
+    "retry_after": null,
+    "status": "migrated"
+  }
+}
