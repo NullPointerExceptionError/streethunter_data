@@ -26,12 +26,14 @@
   {
     "id": "friedenweiler_01",
     "name": "Friedenweiler",
-    "url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/friedenweiler_01.db",
+    "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/friedenweiler_01-20261014.01/friedenweiler_01.db",
     "offline_map_url": "TODO",
     "districts_count": 2,
     "center_lat": 47.9167,
     "center_lon": 8.25,
-    "version": 20261013.02
+    "version": 20261014.01,
+    "sha256": "39eef59c8d65e0eba5aeffb39c83a635274a7931a8fff7aaacbfb2ee02f36650",
+    "size_bytes": 5480448
   },
   {
     "id": "koenigswinter_01",
