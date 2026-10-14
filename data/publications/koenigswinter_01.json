@@ -1,0 +1,19 @@
+{
+  "candidate_available": true,
+  "city": "Königswinter",
+  "database_id": "koenigswinter_01",
+  "errors": [],
+  "generator_commit": null,
+  "h3_resolution": 12,
+  "original_url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/main/data/packages/koenigswinter_01.db",
+  "override_sha256": null,
+  "previous_version": 20261013.01,
+  "published_at": "2026-10-14T01:13:47.235709+00:00",
+  "registry_parent": "a60c1fc32dea35887faeb05fa1f3af744afb6e3d",
+  "sha256": "10a88d2cd33add9f7b87c0659d7df1a3eb18507d04ae9d23e3e3a268d698421e",
+  "source": "LEGACY PUBLISHED DATABASE",
+  "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/koenigswinter_01-20261014.01/koenigswinter_01.db",
+  "validation": "passed",
+  "version": "20261014.01",
+  "warnings": []
+}
