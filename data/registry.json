@@ -70,5 +70,17 @@
     "version": 20261014.01,
     "sha256": "d7d94ede0798c0f97756602d25e3b0211721a9886a5a025685b533ee76ec237f",
     "size_bytes": 90877952
+  },
+  {
+    "id": "bergisch_gladbach_01",
+    "name": "Bergisch Gladbach",
+    "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/bergisch_gladbach_01-20261026.01/bergisch_gladbach_01.db",
+    "center_lat": 50.97343055,
+    "center_lon": 7.176491770658728,
+    "districts_count": 1,
+    "offline_map_url": "TODO",
+    "version": 20261026.01,
+    "sha256": "22223c64b0ec6e50c99beae84074e8fd59ddeed7ca7280d7c78e8ddb7d2a31ef",
+    "size_bytes": 17928192
   }
 ]
