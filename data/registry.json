@@ -94,5 +94,17 @@
     "version": 20261027.01,
     "sha256": "2fb709981dfc66e6df855b41fd364741bf30a7daf127046e53de5d2b6469fbbf",
     "size_bytes": 197812224
+  },
+  {
+    "id": "gvv_hexental_01",
+    "name": "GVV Hexental",
+    "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/gvv_hexental_01-20261027.01/gvv_hexental_01.db",
+    "center_lat": 47.9411482,
+    "center_lon": 7.838681651422371,
+    "districts_count": 5,
+    "offline_map_url": "TODO",
+    "version": 20261027.01,
+    "sha256": "1e3bb8576d91eeead16eecf6a2008c7ee0bce2d7937aad433d18d968a782ed33",
+    "size_bytes": 5058560
   }
 ]
