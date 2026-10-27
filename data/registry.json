@@ -106,5 +106,17 @@
     "version": 20261027.01,
     "sha256": "1e3bb8576d91eeead16eecf6a2008c7ee0bce2d7937aad433d18d968a782ed33",
     "size_bytes": 5058560
+  },
+  {
+    "id": "gvv_kaiserstuhl_tuniberg_01",
+    "name": "GVV Kaiserstuhl-Tuniberg",
+    "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/gvv_kaiserstuhl_tuniberg_01-20261027.01/gvv_kaiserstuhl_tuniberg_01.db",
+    "center_lat": 48.0731137,
+    "center_lon": 7.7195837202719435,
+    "districts_count": 3,
+    "offline_map_url": "TODO",
+    "version": 20261027.01,
+    "sha256": "467ce4f932b7b7b0227cd1e36c8b1cdbd63592f067b3a5cb8871a3f91680bdb6",
+    "size_bytes": 7020544
   }
 ]
