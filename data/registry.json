@@ -142,5 +142,17 @@
     "version": 20261028.01,
     "sha256": "e0dda446b62550e26baca658034cf6823cce2a1f7a29d797a170fa000aa27620",
     "size_bytes": 13860864
+  },
+  {
+    "id": "staufen_im_breisgau_01",
+    "name": "Staufen im Breisgau",
+    "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/staufen_im_breisgau_01-20261028.01/staufen_im_breisgau_01.db",
+    "center_lat": 47.8663555,
+    "center_lon": 7.735688683841756,
+    "districts_count": 3,
+    "offline_map_url": "TODO",
+    "version": 20261028.01,
+    "sha256": "dc74cae1da62d6023e20bb7d16dd2efb009dba0ad0f8d6af62cce1aba1cbf83d",
+    "size_bytes": 4771840
   }
 ]
