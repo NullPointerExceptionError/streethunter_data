@@ -178,5 +178,17 @@
     "version": 20261028.01,
     "sha256": "168c6d4b8aef2fc1b3c662ffdb449ecb79a95d528ea2c92718b13ab797ab866e",
     "size_bytes": 6680576
+  },
+  {
+    "id": "st_peter_01",
+    "name": "St. Peter",
+    "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/st_peter_01-20261028.01/st_peter_01.db",
+    "center_lat": 48.02860485,
+    "center_lon": 8.053673521395956,
+    "districts_count": 1,
+    "offline_map_url": "TODO",
+    "version": 20261028.01,
+    "sha256": "6d9244fa1d747aac775128617a2ec1b9b746c1c6bb971b5faf4d857534db2e39",
+    "size_bytes": 7213056
   }
 ]
