@@ -154,5 +154,17 @@
     "version": 20261028.01,
     "sha256": "dc74cae1da62d6023e20bb7d16dd2efb009dba0ad0f8d6af62cce1aba1cbf83d",
     "size_bytes": 4771840
+  },
+  {
+    "id": "glottertal_01",
+    "name": "Glottertal",
+    "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/glottertal_01-20261028.01/glottertal_01.db",
+    "center_lat": 48.03959925,
+    "center_lon": 7.9614164004940715,
+    "districts_count": 4,
+    "offline_map_url": "TODO",
+    "version": 20261028.01,
+    "sha256": "97092da4a7834cab0293111c484e33676eb3b7ced8e5ed6998886347be56a443",
+    "size_bytes": 6344704
   }
 ]
