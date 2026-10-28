@@ -118,5 +118,17 @@
     "version": 20261027.01,
     "sha256": "467ce4f932b7b7b0227cd1e36c8b1cdbd63592f067b3a5cb8871a3f91680bdb6",
     "size_bytes": 7020544
+  },
+  {
+    "id": "auggen_01",
+    "name": "Auggen",
+    "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/auggen_01-20261028.01/auggen_01.db",
+    "center_lat": 47.7915675,
+    "center_lon": 7.583313248317999,
+    "districts_count": 1,
+    "offline_map_url": "TODO",
+    "version": 20261028.01,
+    "sha256": "f32cd5172a3d4cf3ff2abc278d33f4563a34bf9a051a8e3c3cead56dad8b6961",
+    "size_bytes": 2809856
   }
 ]
