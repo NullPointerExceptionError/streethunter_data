@@ -2,7 +2,10 @@
 
 `registry.json` ist der Einstieg für den neuen Datenvertrag. In `dev_AI`
 bleibt die Länderliste bis zur Bereitstellung geprüfter Daten leer. Jede
-Länderkennung verweist später über `manifest_url` auf ein Länder-Manifest.
+Länderkennung verweist später über `manifest_url` auf ein Länder-Manifest
+im selben `data/v2/`-Verzeichnis. `manifest_sha256` enthält den SHA-256
+der veröffentlichten Manifest-Datei. Beide Felder stehen zusammen in
+`countries.<Länderkennung>`.
 Die bestehende Stadt-Registry bedient weiterhin bereits installierte Apps.
 
 ## Katalog und Download
