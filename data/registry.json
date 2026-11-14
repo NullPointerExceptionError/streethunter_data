@@ -202,5 +202,17 @@
     "version": 20261028.01,
     "sha256": "9f6410ee0f6e092b859e4fe9b79c6b5f33b6ac6ac999d81777dfe2cd14d411b8",
     "size_bytes": 3317760
+  },
+  {
+    "id": "bad_honnef_01",
+    "name": "Bad Honnef",
+    "url": "https://github.com/NullPointerExceptionError/streethunter_data/releases/download/bad_honnef_01-20261114.01/bad_honnef_01.db",
+    "center_lat": 50.6553274,
+    "center_lon": 7.2810833714071395,
+    "districts_count": 2,
+    "offline_map_url": "TODO",
+    "version": 20261114.01,
+    "sha256": "f39639f430f65a5e1aa22a1a5b4b9e64fd4c2065fb246304cc09e4b69e878bec",
+    "size_bytes": 10526720
   }
 ]
