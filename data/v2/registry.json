@@ -1,5 +1,10 @@
 {
   "schema_version": 1,
-  "catalog_version": 1,
-  "countries": {}
+  "catalog_version": 2,
+  "countries": {
+    "DE": {
+      "manifest_url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/dev_AI/data/v2/DE-v3.json",
+      "manifest_sha256": "a0759d673b66be694cf723815617733dd9a2c255b7b3615cedf965a7d317ba52"
+    }
+  }
 }
