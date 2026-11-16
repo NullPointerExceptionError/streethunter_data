@@ -44,6 +44,16 @@ ist kleingeschriebener H3-Text. `is_street` ist 0 oder 1. Fortschritt nutzt
 alle Referenzzellen als Nenner. Für Elterngebiete werden Zähler und Nenner
 der darunterliegenden Endpunkte jeweils summiert.
 
+## Gebietszuordnung in der App
+
+Die veröffentlichte kompakte Grenzdatei enthält in `area.endpoint_geometry`
+keine Polygone. Die Kacheln führen je Gebiet dessen Grenzlinien mit
+`area_id`. Die App wählt Kandidaten über `endpoint_bbox` und entscheidet
+mit den Linien der Zoomstufe 12, in welchem Endpunkt ein Punkt liegt.
+Verbindlich für das Zählen einer Zelle bleibt `reference` der jeweiligen
+Endpunkt-Datei. Kacheln der Zoomstufen 0 bis 9 enthalten nur Gebiete bis
+Admin-Level 4, 6 beziehungsweise 8. Ab Zoom 10 sind alle Level enthalten.
+
 Endpunktgrenzen und Straßengeometrien basieren auf OpenStreetMap.
 © OpenStreetMap contributors. Die Daten unterliegen der ODbL 1.0.
 Siehe [Datenlizenz](../../LICENSE-DATA.md).
