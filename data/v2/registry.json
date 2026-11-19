@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "catalog_version": 3,
+  "catalog_version": 4,
   "countries": {
     "DE": {
-      "manifest_url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/dev_AI/data/v2/DE-v4.json",
-      "manifest_sha256": "432474d100a6a50a78d7fa3d0e5698850922e9d74e0ae85b822c111f1a7ef70f"
+      "manifest_url": "https://raw.githubusercontent.com/NullPointerExceptionError/streethunter_data/dev_AI/data/v2/DE-v5.json",
+      "manifest_sha256": "4d024af74d614ca480883b926e35378ad6c0a6ea511e8700e2b26df7e99421b5"
     }
   }
 }
