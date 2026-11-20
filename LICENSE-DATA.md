@@ -1,15 +1,27 @@
-# Lizenz der OSM-basierten Stadt-Referenzdaten
+# Lizenz der OSM-basierten StreetHunter-Daten
 
 © OpenStreetMap contributors.
 
-Die OSM-basierten StreetHunter-Stadt-Referenzdatenbanken (`.db`), einschließlich ihrer abgeleiteten geografischen Datenbankstruktur und veröffentlichten Änderungen, werden unter der **Open Data Commons Open Database License 1.0 (ODbL-1.0)** zur Verfügung gestellt.
+Die aus OpenStreetMap abgeleiteten StreetHunter-Datenbanken werden unter der
+**Open Data Commons Open Database License 1.0 (ODbL 1.0)** bereitgestellt.
+Der Hinweis gilt für folgende Datenbanken, einschließlich ihrer abgeleiteten
+Daten und veröffentlichten Änderungen:
 
-Der vollständige verbindliche Lizenztext ist hier zugänglich:
-https://opendatacommons.org/licenses/odbl/1-0/
+- Ländergrenzen und Verwaltungshierarchie (`.mbtiles`);
+- einzelne Spielgebiete mit H3-Referenzzellen und Straßen (`.sqlite`);
+- ältere Stadt-Referenzdatenbanken (`.db`).
 
-Informationen zur Herkunft, zur Attribution und zu den zugrunde liegenden OpenStreetMap-Daten:
-https://www.openstreetmap.org/copyright
+Vollständiger Lizenztext: https://opendatacommons.org/licenses/odbl/1-0/
 
-Dieser Hinweis gilt sowohl für die Datenbankdateien im Git-Baum als auch für die zugehörigen versionierten Datenbankdateien in GitHub Releases dieses Repositorys. Bei einer Weitergabe müssen die Lizenz und die erforderlichen Hinweise erhalten bleiben. Für die öffentliche Nutzung und Weitergabe abgeleiteter Datenbanken sind insbesondere die ODbL-Bedingungen für Attribution, Share-Alike und Bereitstellung der abgeleiteten Datenbank zu beachten. Die bereitgestellten SQLite-Dateien sind mit Standardwerkzeugen lesbar und bearbeitbar.
+Quellendaten und Urheberhinweise: https://www.openstreetmap.org/copyright
 
-Die Datenlizenz ist keine Softwarelizenz für den StreetHunter-Appcode oder den Generator. Sie erfasst keine privaten Standort- oder Spielfortschrittsdaten der Nutzer und räumt keine Markenrechte ein. Für Karten-Tile-Dienste gelten zusätzlich die jeweiligen Nutzungsbedingungen; aus der ODbL folgt keine Erlaubnis zum massenhaften Herunterladen öffentlicher Tile-Server.
+Die Datenbanken stehen in [GitHub Releases](https://github.com/NullPointerExceptionError/streethunter_data/releases)
+und für ältere Stadtpakete auch im Git-Baum zur Verfügung. Bei mehrteiligen
+Downloads stehen Reihenfolge und Prüfsummen im zugehörigen Manifest. Die
+zusammengesetzten Datenbanken sind mit SQLite-Werkzeugen lesbar.
+Bei Weitergabe die Hinweise beibehalten und die ODbL-Bedingungen zu
+Attribution, Share-Alike und Zugang zur abgeleiteten Datenbank beachten.
+
+Diese Datenlizenz erfasst weder den StreetHunter-Appcode noch den Generator,
+private Standort- und Spielfortschrittsdaten oder Markenrechte. Für den Abruf
+von Kartenkacheln gelten die Nutzungsbedingungen des jeweiligen Dienstes.

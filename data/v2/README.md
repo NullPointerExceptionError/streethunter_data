@@ -1,8 +1,8 @@
 # Verwaltungsdaten für StreetHunter
 
-`registry.json` ist der Einstieg für den neuen Datenvertrag. In `dev_AI`
-bleibt die Länderliste bis zur Bereitstellung geprüfter Daten leer. Jede
-Länderkennung verweist später über `manifest_url` auf ein Länder-Manifest
+`registry.json` ist der Einstieg für den Gebietskatalog. Auf `dev_AI` ist
+Deutschland (`DE`) verfügbar. Jede Länderkennung verweist über `manifest_url`
+auf ein Länder-Manifest
 im selben `data/v2/`-Verzeichnis. `manifest_sha256` enthält den SHA-256
 der veröffentlichten Manifest-Datei. Beide Felder stehen zusammen in
 `countries.<Länderkennung>`.
@@ -54,6 +54,4 @@ Verbindlich für das Zählen einer Zelle bleibt `reference` der jeweiligen
 Endpunkt-Datei. Kacheln der Zoomstufen 0 bis 9 enthalten nur Gebiete bis
 Admin-Level 4, 6 beziehungsweise 8. Ab Zoom 10 sind alle Level enthalten.
 
-Endpunktgrenzen und Straßengeometrien basieren auf OpenStreetMap.
-© OpenStreetMap contributors. Die Daten unterliegen der ODbL 1.0.
-Siehe [Datenlizenz](../../LICENSE-DATA.md).
+Die Ländergrenzen (`.mbtiles`) und Gebietsdateien (`.sqlite`) basieren auf OpenStreetMap. © OpenStreetMap contributors. Sie stehen unter der [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/). Siehe auch [Datenlizenz und Herkunft](../../LICENSE-DATA.md).

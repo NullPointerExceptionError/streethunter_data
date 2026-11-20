@@ -1,21 +1,31 @@
-# StreetHunter – Stadtdaten
+# StreetHunter – Gebietsdaten
 
-Dieses Repository stellt die öffentlichen Stadt-Referenzdaten für StreetHunter bereit. `data/registry.json` enthält den Katalog und verweist auf versionierte SQLite-Dateien in GitHub Releases. Ältere Datenbanken liegen außerdem unter `data/packages/`.
+Dieses Repository stellt aus OpenStreetMap abgeleitete Spieldaten bereit.
+Der [Gebietskatalog](data/v2/README.md) verweist auf versionierte Grenzdateien
+(`.mbtiles`) und Gebietsdateien (`.sqlite`) in
+[GitHub Releases](https://github.com/NullPointerExceptionError/streethunter_data/releases).
+Die frühere Stadt-Registry `data/registry.json` und ältere `.db`-Pakete unter
+`data/packages/` stehen weiterhin für ältere App-Versionen bereit.
 
 ## Herkunft und Lizenz
 
-© OpenStreetMap contributors. Die Stadt-Referenzdatenbanken sind aus OpenStreetMap-Daten abgeleitete Datenbanken und werden unter der Open Database License 1.0 (ODbL-1.0) bereitgestellt. Die Erzeugung ergänzt unter anderem H3-Zellen, Straßenklassifikation und manuell überprüfte Korrekturen. Siehe [LICENSE-DATA.md](LICENSE-DATA.md).
+© OpenStreetMap contributors. Die Grenz- und Gebietsdateien und die älteren
+Stadtpakete stehen unter der **Open Database License 1.0 (ODbL 1.0)**.
+Siehe [Lizenz der StreetHunter-Daten](LICENSE-DATA.md),
+[OpenStreetMap-Herkunft und Attribution](https://www.openstreetmap.org/copyright)
+und den [vollständigen Lizenztext](https://opendatacommons.org/licenses/odbl/1-0/).
 
-- OpenStreetMap und Quellenhinweise: https://www.openstreetmap.org/copyright
-- Vollständige Datenbanklizenz: https://opendatacommons.org/licenses/odbl/1-0/
-- Generator: https://github.com/NullPointerExceptionError/streethunter_data-db-generator
-
-Diese Hinweise gelten für die OSM-basierten `.db`-Dateien in diesem Repository und den zugehörigen StreetHunter-Datenbank-Releases. Die Dateien werden in einer offenen, mit SQLite lesbaren Form bereitgestellt. Veröffentlichungsmanifeste (`publication.json`), soweit vorhanden, beschreiben zusätzlich Erzeugungsstand, Eingaben und Prüfsummen. Fehlende historische Angaben dürfen nicht nachträglich erfunden werden.
+StreetHunter leitet aus den OSM-Daten Verwaltungshierarchien und
+H3-Referenzzellen ab, klassifiziert Straßen und berücksichtigt geprüfte
+Korrekturen. Veröffentlichungsmanifeste dokumentieren, soweit vorhanden,
+den Erzeugungsstand, die Eingaben und die Prüfsummen. Weitere technische Details stehen im [Generator-Repository](https://github.com/NullPointerExceptionError/streethunter_data-db-generator).
 
 ## Nutzung
 
-Die Lizenz erlaubt auch kommerzielle Nutzung, verlangt aber insbesondere Attribution und bei Weitergabe abgeleiteter Datenbanken die Einhaltung ihrer Share-Alike-Bedingungen. Lizenz und Hinweise müssen mit der Weitergabe zugänglich bleiben. Die Daten können Fehler enthalten und ersetzen keine verlässliche Auskunft über Zugänglichkeit, Verkehrsregeln oder Betretungsrechte.
+Die Lizenz erlaubt auch kommerzielle Nutzung. Ihre Bedingungen zur Attribution
+und zur Weitergabe abgeleiteter Datenbanken gelten weiterhin. Die Daten können
+Fehler enthalten und ersetzen keine verlässliche Auskunft über Zugänglichkeit,
+Verkehrsregeln oder Betretungsrechte.
 
-Die Stadtdaten sind keine Aufzeichnungen von Spielern. Private Besuchszellen, Besuchszeiten und GPS-Verläufe gehören nicht in dieses öffentliche Repository. Die Datenlizenz verlangt nicht die Veröffentlichung privater Spielerdaten oder des gesamten Appcodes.
-
-Es werden hier keine vollständigen Offline-Hintergrundkarten angeboten. Eine Stadt-Referenzdatenbank ist kein Offline-Tile-Archiv.
+Die Dateien enthalten keine Spielstände, besuchten Orte oder GPS-Verläufe.
+Sie sind Spieldaten und keine Offline-Hintergrundkarten.
